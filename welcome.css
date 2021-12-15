@@ -1,0 +1,32 @@
+.welcome {
+   
+    letter-spacing: 5px;
+    background-image: 'image/Portofolio4.png';
+   
+}
+
+.slide {
+    width: 1000px;
+    opacity:0.5;
+}
+
+.hello  {
+    position: relative;
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 260px;
+  }
+  
+  .center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+  }
+  
+  img { 
+    width: 100%;
+    height: auto;
+    opacity: 0.3;
+  }

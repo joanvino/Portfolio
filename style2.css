@@ -1,0 +1,37 @@
+@import "https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css";
+
+.container {
+    width: 100%;
+    
+
+}
+
+.more {
+    background-color: #80b1b3;
+     
+}
+
+.card {
+    border: none;
+    background-color: #437070;
+    border-radius: 20px;
+
+ 
+    margin: none;
+}
+
+.card-img-top {
+    border-top-left-radius: 19px;
+    border-top-right-radius: 19px;
+}
+
+.card:hover {
+    transform: translateY(-15px);
+    transition: transform .3s;
+}
+
+.info {
+    line-height: 17px;
+    
+}
+
